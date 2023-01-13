@@ -1,0 +1,369 @@
+14:52:28.564 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+14:52:30.419 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+14:52:30.423 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+14:52:31.568 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+14:52:31.596 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+14:52:31.599 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+15:02:25.422 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+15:02:26.720 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+15:02:26.723 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+15:02:27.883 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+15:02:27.907 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:02:27.908 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+15:03:41.709 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+15:03:42.980 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+15:03:42.981 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+15:03:44.122 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+15:03:44.146 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:03:44.147 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+15:04:06.716 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+15:04:07.196 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+15:04:07.198 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+15:04:08.360 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+15:04:08.388 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:04:08.390 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+15:57:16.374 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+15:57:17.702 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+15:57:17.704 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+15:57:18.908 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+15:57:18.933 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:57:18.936 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:13:55.192 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:13:56.441 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:13:56.442 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:13:57.593 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:13:57.620 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:13:57.622 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:30:01.589 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:30:02.876 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:30:02.878 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:30:04.048 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:30:04.071 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:30:04.073 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:30:08.231 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:30:08.711 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:30:08.712 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:30:09.858 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:30:09.880 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:30:09.881 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:30:15.348 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:30:15.805 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:30:15.805 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:30:17.023 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:30:17.053 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:30:17.053 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:48:29.932 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:48:32.851 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:48:32.859 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:48:34.008 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:48:34.038 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:48:34.039 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:48:39.425 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:48:39.895 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:48:39.896 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:48:42.529 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:48:42.560 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:48:42.560 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:49:43.797 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:49:44.270 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:49:44.272 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:49:45.409 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:49:45.435 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:49:45.437 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:49:49.342 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:49:49.811 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:49:49.812 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:49:50.958 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:49:50.992 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:49:50.992 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:51:07.988 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:51:09.358 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:51:09.360 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:51:09.875 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+06:51:10.359 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+06:51:10.360 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+06:51:10.673 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:51:10.702 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:51:10.705 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+06:51:11.526 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+06:51:11.553 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+06:51:11.554 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:01:59.595 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:02:00.972 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:02:00.974 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:02:02.148 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:02:02.177 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:02:02.179 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:25:43.589 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:25:44.870 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:25:44.872 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:25:46.035 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:25:46.062 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:25:46.063 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:28:32.407 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:28:33.657 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:28:33.661 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:28:34.813 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:28:34.836 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:28:34.839 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:29:32.356 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:29:32.815 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:29:32.816 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:29:33.917 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:29:33.942 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:29:33.944 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:29:35.961 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:29:37.200 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:29:37.200 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:29:38.360 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:29:38.384 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:29:38.384 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:29:42.199 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:29:42.639 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:29:42.640 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:29:43.773 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:29:43.800 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:29:43.800 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:32:51.586 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:32:51.674 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:32:52.209 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:32:52.211 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:32:53.010 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:32:53.012 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:32:53.372 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:32:53.413 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:32:53.458 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:32:53.460 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:32:53.870 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:32:53.871 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:32:54.321 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:32:54.348 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:32:54.348 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:32:55.048 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:32:55.077 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:32:55.077 [TestNG-tests-3] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:36:18.995 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:36:20.292 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:36:20.294 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:36:22.207 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:36:22.234 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:36:22.236 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:36:25.067 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:36:25.545 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:36:25.547 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:36:26.688 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:36:26.711 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:36:26.711 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:36:30.207 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:36:30.663 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:36:30.664 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:36:31.772 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:36:31.800 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:36:31.800 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+08:05:25.314 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+08:05:25.801 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+08:05:25.803 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+08:05:26.945 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+08:05:26.967 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+08:05:26.969 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+08:37:16.411 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+08:37:17.720 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+08:37:17.722 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+08:37:18.821 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+08:37:18.850 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+08:37:18.851 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+08:39:36.226 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+08:39:36.687 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+08:39:36.689 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+08:39:37.056 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+08:39:47.104 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+09:39:49.010 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+09:39:49.462 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+09:39:49.464 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+09:39:49.987 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+09:42:32.327 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+09:42:33.618 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+09:42:33.620 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+09:42:34.491 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+09:45:01.935 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+09:45:02.371 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+09:45:02.372 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+09:45:03.205 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+10:17:32.870 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+10:17:33.344 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+10:17:33.346 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+10:17:34.232 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+10:17:34.273 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+15:31:59.774 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:32:00.248 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:32:00.261 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:32:01.120 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:32:01.960 [main] INFO  testCase.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT*****
+15:32:01.984 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:32:02.398 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:32:02.399 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:32:02.903 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:32:13.132 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:32:13.527 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:32:13.528 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:32:14.036 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:32:24.267 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:32:24.680 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:32:24.680 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:32:25.207 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:32:35.398 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:32:35.819 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:32:35.820 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:32:36.696 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:32:37.431 [main] INFO  testCase.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT*****
+15:37:59.399 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:38:00.657 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:38:00.658 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:38:01.515 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:38:02.274 [main] INFO  testCase.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT*****
+15:38:02.297 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:38:02.708 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:38:02.708 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:38:03.193 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:38:13.421 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:38:13.837 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:38:13.837 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:38:14.500 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:38:24.722 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:38:25.118 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:38:25.118 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:38:25.629 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:38:35.843 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+15:38:36.256 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+15:38:36.257 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+15:38:37.132 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+15:38:37.941 [main] INFO  testCase.TC_003_LoginDDT - ***** Finished TC_003_LoginDDT*****
+16:06:40.017 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:06:41.273 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:06:41.274 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:06:42.424 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:06:42.453 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:06:42.455 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:06:45.338 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+16:06:45.821 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+16:06:45.822 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+16:06:46.456 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+16:06:46.497 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+16:07:38.214 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:07:38.696 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:07:38.699 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:07:39.881 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:07:39.906 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:07:39.908 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:07:41.934 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+16:07:42.424 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+16:07:42.425 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+16:07:42.955 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+16:07:42.994 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+16:13:17.582 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+16:13:18.874 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+16:13:18.875 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+16:13:19.379 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+16:13:19.424 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+16:21:01.700 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+16:21:02.971 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+16:21:02.972 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+16:21:03.484 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+16:21:03.521 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+16:23:40.244 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+16:23:41.536 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+16:23:41.538 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+16:23:42.704 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+16:23:42.730 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+16:23:42.731 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+16:23:45.635 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+16:23:46.073 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+16:23:46.074 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+16:23:46.588 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+16:23:46.625 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+07:16:14.863 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:16:16.525 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:16:16.525 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:16:18.212 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:16:18.247 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:16:18.247 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:16:19.906 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+07:16:20.366 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+07:16:20.366 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+07:16:20.934 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+07:16:20.981 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+07:59:51.495 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+07:59:52.252 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+07:59:52.253 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+07:59:53.569 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+07:59:53.594 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+07:59:53.596 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+07:59:56.180 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+07:59:56.672 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+07:59:56.673 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+07:59:57.256 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+07:59:57.296 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+12:49:56.685 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+12:49:57.249 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+12:49:57.253 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+12:49:58.455 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+12:49:58.492 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+12:49:58.494 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+12:50:01.059 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:50:01.667 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+12:50:01.677 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+12:50:02.248 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+12:50:02.310 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+12:57:31.613 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+12:57:32.115 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+12:57:32.117 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+12:57:32.693 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+12:57:42.813 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+12:57:43.244 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+12:57:43.245 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+12:57:43.775 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+12:57:53.886 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+12:57:54.292 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+12:57:54.292 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+12:57:54.772 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+12:58:04.875 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+12:58:05.312 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+12:58:05.313 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+12:58:05.899 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+12:58:16.003 [main] INFO  testCase.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT*****
+12:58:16.401 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login Link
+12:58:16.401 [main] INFO  testCase.TC_003_LoginDDT - Providing login details
+12:58:16.906 [main] INFO  testCase.TC_003_LoginDDT - Clicked on Login button
+13:03:43.531 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+13:03:44.875 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+13:03:44.876 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+13:03:46.110 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+13:03:46.151 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+13:03:46.154 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+13:03:48.694 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+13:03:49.183 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+13:03:49.184 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+13:03:49.737 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+13:03:49.787 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+13:28:04.832 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+13:28:06.256 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+13:28:06.259 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+13:28:07.502 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+13:28:07.544 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+13:28:07.546 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+13:28:10.710 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+13:28:11.226 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+13:28:11.228 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+13:28:11.776 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+13:28:11.835 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
+05:42:44.308 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest  ***
+05:42:45.580 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on register link
+05:42:45.582 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing customer data
+05:42:46.636 [main] INFO  testCase.TC_001_AccountRegistrationTest - Clicked on continue
+05:42:46.656 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+05:42:46.701 [main] INFO  testCase.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest  ***
+05:42:49.657 [main] INFO  testCase.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+05:42:50.119 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login Link
+05:42:50.122 [main] INFO  testCase.TC_002_LoginTest - Providing login details
+05:42:50.610 [main] INFO  testCase.TC_002_LoginTest - Clicked on Login button
+05:42:50.656 [main] INFO  testCase.TC_002_LoginTest - ****Finished TC_002_LoginTest****
